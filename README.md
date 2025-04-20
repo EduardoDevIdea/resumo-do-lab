@@ -48,4 +48,28 @@ Benefícios da nuvem
 •	Governança: a auditoria baseada em nuvem ajuda a sinalizar qualquer recurso que esteja fora de conformidade com seus padrões corporativos e fornece estratégias de mitigação. Dependendo do modelo operacional, patches de software e atualizações também podem ser aplicados automaticamente, o que ajuda na governança e na segurança. Ao estabelecer uma presença de governança o mais cedo possível, você poderá manter a sua presença de nuvem atualizada, protegida e bem gerenciada.
 •	Gerenciabilidade: um dos principais benefícios da computação em nuvem são as opções de capacidade de gerenciamento; Escalar automaticamente a implantação de recursos com base na necessidade; Implantar recursos com base em um modelo pré-configurado, removendo a necessidade de configuração manual; O gerenciamento da nuvem diz respeito à maneira de gerenciar seu ambiente de nuvem e seus recursos por exemplo: por meio de um portal web, usando uma interface de linha de comando, usando APIs, usando PowerShell
 
+Tipos de Serviços em Nuvem na Azure
+
+IaaS (Infraestrutura como Serviço)
+•	Infraestrutura de TI conforme o uso alugando servidores, máquinas virtuais, armazenamento, redes e sistemas operacionais de um provedor de nuvem.
+•	Servidores e armazenamento; Firewalls/Segurança; Planta física/edifício do datacenter
+•	O serviço de nuvem mais flexível
+•	Você configura e gerencia o hardware para seu aplicativo
+
+PasS  (Plataforma como serviço)
+•	Engloba IaaS: Servidores e armazenamento; Firewalls/Segurança; Planta física/edifício do datacenter
+•	Possui Sistemas operacionais, Ferramentas para desenvolvedores, análise de negócios de gerenciamento de database.
+•	Fornece um ambiente para a criação, o teste e a implantação de aplicativos de software, sem focar no gerenciamento da infraestrutura subjacente.
+•	Focado no desenvolvimento de aplicativos
+•	O gerenciamento de plataforma é realizado pelo provedor de nuvem
+
+SaaS (software como  serviço)
+•	Engloba IaaS e PaaS
+•	Possui Aplicativos/apps hospedados 
+•	Exemplo: Microsoft Teams
+•	Os usuparios se conectam e usam aplicativos com base em uma nuvem pela internet: por exemplo, Microsoft Office 365, e-mails, calendários
+•	Modelo de preço de pagamento conforme o uso
+•	Os usuários pagam pelo software que utilizam em modelo de assinatura
+
+
 
