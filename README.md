@@ -37,3 +37,15 @@ Modelo baseado em consumo
 •	São fornecidos preços para recursos e serviços individuais
 •	A cobrança é feita com base no seu uso real
 
+Benefícios da nuvem
+•	Alta disponibilidade: se concentra em garantir a disponibilidade máxima, independentemente de interrupções ou eventos que possam ocorrer.
+•	SLA
+•	Escalabilidade: refere-se à capacidade de ajustar recursos para atender à demanda. Você poderá adicionar mais recursos para lidar melhor com o aumento da demanda. Paga apenas o necessário pelos serviços. Se a demandar cair, poderá reduzir seus recursos e, assim, reduzir seus custos. Com a escala vertical, caso precise de mais processamento, poderá escalar verticalmente para adicionar mais CPUs ou RAM à máquina virtual.
+•	Elasticidade: em caso de um salto repentino acentuado na demanda, os recursos implantados poderiam ser expandidos (automaticamente ou manualmente)
+•	Confiabilidade:  devido ao design descentralizado, a nuvem naturalmente dá suporte a uma infraestrutura confiável e resiliente. A nuvem permite que você tenha recursos implantados em várias regiões do mundo. Com essa escala global, mesmo que ocorra um evento catastrófico em uma região, as outras regiões ainda estarão em funcionamento.
+•	Previsibilidade: permite que você avance com confiança, seja no desempenho ou no custo. Ambas são influenciadas pelo Microsoft Azure Well Architected Framwork.
+•	Segurança: oferece ferramentas de segurança que atendem às necessidades dos clientes mas, é importante lembrar que a implementação de muitas delas devem ser realizadas pelo cliente. Se quiser controle máximo de segurança, a infraestrutura como serviço fornecerá recursos físicos, mas permitirá que você gerencie os sistemas operacionais e o software instalado, incluindo aplicação de patches e manutenção.
+•	Governança: a auditoria baseada em nuvem ajuda a sinalizar qualquer recurso que esteja fora de conformidade com seus padrões corporativos e fornece estratégias de mitigação. Dependendo do modelo operacional, patches de software e atualizações também podem ser aplicados automaticamente, o que ajuda na governança e na segurança. Ao estabelecer uma presença de governança o mais cedo possível, você poderá manter a sua presença de nuvem atualizada, protegida e bem gerenciada.
+•	Gerenciabilidade: um dos principais benefícios da computação em nuvem são as opções de capacidade de gerenciamento; Escalar automaticamente a implantação de recursos com base na necessidade; Implantar recursos com base em um modelo pré-configurado, removendo a necessidade de configuração manual; O gerenciamento da nuvem diz respeito à maneira de gerenciar seu ambiente de nuvem e seus recursos por exemplo: por meio de um portal web, usando uma interface de linha de comando, usando APIs, usando PowerShell
+
+
